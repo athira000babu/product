@@ -1,0 +1,7 @@
+organization=sonarcredential
+projectKey=athira000babu_project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=athira000babu_project
+ceTaskId=AXvJknhhqTqxQeo4bSsg
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvJknhhqTqxQeo4bSsg

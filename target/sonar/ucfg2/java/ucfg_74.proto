@@ -1,0 +1,69 @@
+
+žcom.infosys.api.product.dto.SubscribedproductDTO#valueOf(Lcom/infosys/api/product/entity/Subscribedproduct;)Lcom/infosys/api/product/dto/SubscribedproductDTO;k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java"$ "(+"1*å
+1k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java#& #(@Ú×
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java#* #(>6
+%00com.infosys.api.product.dto.SubscribedproductDTO"0com.infosys.api.product.dto.SubscribedproductDTOì
+é
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java#& #(@
+%1":com.infosys.api.product.dto.SubscribedproductDTO#<init>()V*8
+6
+%00com.infosys.api.product.dto.SubscribedproductDTOò
+ï
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java# #(A@
+subsribedDTO0com.infosys.api.product.dto.SubscribedproductDTO"__id*8
+6
+%00com.infosys.api.product.dto.SubscribedproductDTO«¨
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java$ $(1
+%2java.lang.Integer"Pcom.infosys.api.product.entity.Subscribedproduct#getBuyerid()Ljava/lang/Integer;*@
+>
+
+subscribed0com.infosys.api.product.entity.Subscribedproduct2getBuyerid()ÏÌ
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java$ $(2
+
+%3void"Qcom.infosys.api.product.dto.SubscribedproductDTO#setBuyerid(Ljava/lang/Integer;)V*B
+@
+subsribedDTO0com.infosys.api.product.dto.SubscribedproductDTO*
+
+%2java.lang.Integer2setBuyerid(Ljava/lang/Integer;)©¦
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java% %(/
+%4java.lang.Integer"Ocom.infosys.api.product.entity.Subscribedproduct#getProdid()Ljava/lang/Integer;*@
+>
+
+subscribed0com.infosys.api.product.entity.Subscribedproduct2getProdid()ÍÊ
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java% %(0
+
+%5void"Pcom.infosys.api.product.dto.SubscribedproductDTO#setProdid(Ljava/lang/Integer;)V*B
+@
+subsribedDTO0com.infosys.api.product.dto.SubscribedproductDTO*
+
+%4java.lang.Integer2setProdid(Ljava/lang/Integer;)­ª
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java& &(3
+%6java.lang.Integer"Qcom.infosys.api.product.entity.Subscribedproduct#getQuantity()Ljava/lang/Integer;*@
+>
+
+subscribed0com.infosys.api.product.entity.Subscribedproduct2getQuantity()ÑÎ
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java& &(4
+
+%7void"Rcom.infosys.api.product.dto.SubscribedproductDTO#setQuantity(Ljava/lang/Integer;)V*B
+@
+subsribedDTO0com.infosys.api.product.dto.SubscribedproductDTO*
+
+%6java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"±
+k
+aC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/SubscribedproductDTO.java' '(B
+@
+subsribedDTO0com.infosys.api.product.dto.SubscribedproductDTO:>
+
+subscribed0com.infosys.api.product.entity.SubscribedproductB4"2
+0com.infosys.api.product.dto.SubscribedproductDTO

@@ -1,0 +1,75 @@
+
+ücom.infosys.api.product.service.ProductService#updateStock(Lcom/infosys/api/product/entity/Product;Ljava/lang/Integer;)Lcom/infosys/api/product/entity/Product;i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java= =("3*„
+2i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java@ @(éã
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java@ @(.
+%3java.lang.Integer"Dcom.infosys.api.product.entity.Product#getStock()Ljava/lang/Integer;*3
+1
+product&com.infosys.api.product.entity.Product2
+getStock()∏µ
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java@ @(/
+
+%4void"Ecom.infosys.api.product.entity.Product#setStock(Ljava/lang/Integer;)V*;
+9
+existingProduct&com.infosys.api.product.entity.Product*
+
+%3java.lang.Integer2setStock(Ljava/lang/Integer;)ı
+Ú
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.javaA
+ A(:
+%54com.infosys.api.product.repository.ProductRepository"__id*C*A0
+.com.infosys.api.product.service.ProductService"
+productRepoêç
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.javaA
+ A(+,
+%6&com.infosys.api.product.entity.Product"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*<
+:
+%54com.infosys.api.product.repository.ProductRepository*;
+9
+existingProduct&com.infosys.api.product.entity.Product2save(Ljava/lang/Object;)"õ
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.javaA A(,.
+,
+%6&com.infosys.api.product.entity.Product*◊	
+3i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java> >('ı
+Ú
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java> >(':
+%04com.infosys.api.product.repository.ProductRepository"__id*C*A0
+.com.infosys.api.product.service.ProductService"
+productRepo‰·
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java> >(4
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*<
+:
+%04com.infosys.api.product.repository.ProductRepository*
+
+idjava.lang.Integer2findById(Ljava/lang/Object;)ùö
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java> >(A,
+%2&com.infosys.api.product.entity.Product"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)ﬂ
+‹
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.java> >(B9
+existingProduct&com.infosys.api.product.entity.Product"__id*.
+,
+%2&com.infosys.api.product.entity.Product*
+2
+1*„
+1i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.javaC	 C("s
+i
+_C:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/service/ProductService.javaC C(
+"":1
+product&com.infosys.api.product.entity.Product:
+idjava.lang.IntegerB20
+.com.infosys.api.product.service.ProductService

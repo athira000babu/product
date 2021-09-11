@@ -1,0 +1,165 @@
+
+€com.infosys.api.product.dto.ProductDTO#valueOf(Lcom/infosys/api/product/entity/Product;)Lcom/infosys/api/product/dto/ProductDTO;a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaN N($"1*‡4
+1a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaO O(/¼¹
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaO# O(-,
+%0&com.infosys.api.product.dto.ProductDTO"&com.infosys.api.product.dto.ProductDTOÎ
+Ë
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaO O(/
+%1"0com.infosys.api.product.dto.ProductDTO#<init>()V*.
+,
+%0&com.infosys.api.product.dto.ProductDTOÒ
+Ï
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaO O(04
+
+productDTO&com.infosys.api.product.dto.ProductDTO"__id*.
+,
+%0&com.infosys.api.product.dto.ProductDTOˆ…
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaP P(0
+%2java.lang.Integer"Ecom.infosys.api.product.entity.Product#getProdid()Ljava/lang/Integer;*3
+1
+product&com.infosys.api.product.entity.Product2getProdid()­ª
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaP P(1
+
+%3void"Fcom.infosys.api.product.dto.ProductDTO#setProdid(Ljava/lang/Integer;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%2java.lang.Integer2setProdid(Ljava/lang/Integer;)
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaQ" Q(:
+%4java.lang.String"Icom.infosys.api.product.entity.Product#getProductName()Ljava/lang/String;*3
+1
+product&com.infosys.api.product.entity.Product2getProductName()´±
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaQ Q(;
+
+%5void"Jcom.infosys.api.product.dto.ProductDTO#setProductName(Ljava/lang/String;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%4java.lang.String2"setProductName(Ljava/lang/String;)„
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaR R(.
+%6java.lang.Double"Ccom.infosys.api.product.entity.Product#getPrice()Ljava/lang/Double;*3
+1
+product&com.infosys.api.product.entity.Product2
+getPrice()¨¥
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaR R(/
+
+%7void"Dcom.infosys.api.product.dto.ProductDTO#setPrice(Ljava/lang/Double;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%6java.lang.Double2setPrice(Ljava/lang/Double;)†ƒ
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaS S(.
+%8java.lang.Integer"Dcom.infosys.api.product.entity.Product#getStock()Ljava/lang/Integer;*3
+1
+product&com.infosys.api.product.entity.Product2
+getStock()«¨
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaS S(/
+
+%9void"Ecom.infosys.api.product.dto.ProductDTO#setStock(Ljava/lang/Integer;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%8java.lang.Integer2setStock(Ljava/lang/Integer;)‘Ž
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaT" T(:
+%10java.lang.String"Icom.infosys.api.product.entity.Product#getDescription()Ljava/lang/String;*3
+1
+product&com.infosys.api.product.entity.Product2getDescription()¶³
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaT T(;
+%11void"Jcom.infosys.api.product.dto.ProductDTO#setDescription(Ljava/lang/String;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%10java.lang.String2"setDescription(Ljava/lang/String;)…‚
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaU U(.
+%12java.lang.String"Ccom.infosys.api.product.entity.Product#getImage()Ljava/lang/String;*3
+1
+product&com.infosys.api.product.entity.Product2
+getImage()ª§
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaU U(/
+%13void"Dcom.infosys.api.product.dto.ProductDTO#setImage(Ljava/lang/String;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%12java.lang.String2setImage(Ljava/lang/String;)Š
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaV V(4
+%14java.lang.Integer"Gcom.infosys.api.product.entity.Product#getSellerid()Ljava/lang/Integer;*3
+1
+product&com.infosys.api.product.entity.Product2getSellerid()³°
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaV V(5
+%15void"Hcom.infosys.api.product.dto.ProductDTO#setSellerid(Ljava/lang/Integer;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%14java.lang.Integer2 setSellerid(Ljava/lang/Integer;)‹ˆ
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaW W(4
+%16java.lang.String"Fcom.infosys.api.product.entity.Product#getCategory()Ljava/lang/String;*3
+1
+product&com.infosys.api.product.entity.Product2getCategory()°­
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaW W(5
+%17void"Gcom.infosys.api.product.dto.ProductDTO#setCategory(Ljava/lang/String;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%16java.lang.String2setCategory(Ljava/lang/String;)‘Ž
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaX" X(:
+%18java.lang.String"Icom.infosys.api.product.entity.Product#getSubcategory()Ljava/lang/String;*3
+1
+product&com.infosys.api.product.entity.Product2getSubcategory()¶³
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaX X(;
+%19void"Jcom.infosys.api.product.dto.ProductDTO#setSubcategory(Ljava/lang/String;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%18java.lang.String2"setSubcategory(Ljava/lang/String;)—”
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaY$ Y(>
+%20java.lang.Integer"Lcom.infosys.api.product.entity.Product#getProductrating()Ljava/lang/Integer;*3
+1
+product&com.infosys.api.product.entity.Product2getProductrating()½º
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaY Y(?
+%21void"Mcom.infosys.api.product.dto.ProductDTO#setProductrating(Ljava/lang/Integer;)V*6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO*
+
+%20java.lang.Integer2%setProductrating(Ljava/lang/Integer;)"›
+a
+WC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/dto/ProductDTO.javaZ Z(6
+4
+
+productDTO&com.infosys.api.product.dto.ProductDTO:1
+product&com.infosys.api.product.entity.ProductB*"(
+&com.infosys.api.product.dto.ProductDTO

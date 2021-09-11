@@ -1,0 +1,11 @@
+com\infosys\api\product\ProductApplication.class
+com\infosys\api\product\dto\SubscribedproductDTO.class
+com\infosys\api\product\entity\Subscribedproduct.class
+com\infosys\api\product\UserConfig.class
+com\infosys\api\product\composite\SubscribedProduct.class
+com\infosys\api\product\controller\ProductController.class
+com\infosys\api\product\entity\Product.class
+com\infosys\api\product\repository\ProductRepository.class
+com\infosys\api\product\repository\SubscribedRepository.class
+com\infosys\api\product\dto\ProductDTO.class
+com\infosys\api\product\service\ProductService.class

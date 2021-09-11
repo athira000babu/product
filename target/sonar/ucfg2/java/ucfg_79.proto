@@ -1,0 +1,147 @@
+
+com.infosys.api.product.controller.ProductController#updateStock(Lcom/infosys/api/product/entity/Product;Ljava/lang/Integer;)Ljava/lang/Object;o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G("startingBlock*®
+startingBlocko
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G(Qk
+i
+
+__unknown_file (
+%2"__id*A*?
+1
+product&com.infosys.api.product.entity.Product"
+
+categoryn
+l
+
+__unknown_file (
+%3"__id*D*B
+1
+product&com.infosys.api.product.entity.Product"
+descriptionh
+f
+
+__unknown_file (
+%4"__id*>*<
+1
+product&com.infosys.api.product.entity.Product"
+imagen
+l
+
+__unknown_file (
+%5"__id*D*B
+1
+product&com.infosys.api.product.entity.Product"
+productNamen
+l
+
+__unknown_file (
+%6"__id*D*B
+1
+product&com.infosys.api.product.entity.Product"
+subcategoryÇ
+Ä
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G('
+%7"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%5Î
+Ë
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG0 G(7B
+1
+product&com.infosys.api.product.entity.Product"
+productName"__annotation*
+
+%7Ç
+Ä
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G('
+%8"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%6Î
+Ë
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG0 G(7B
+1
+product&com.infosys.api.product.entity.Product"
+subcategory"__annotation*
+
+%8Ç
+Ä
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G('
+%9"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%2Ë
+È
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG0 G(7?
+1
+product&com.infosys.api.product.entity.Product"
+
+category"__annotation*
+
+%9È
+Å
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G('
+%10"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%3Ï
+Ì
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG0 G(7B
+1
+product&com.infosys.api.product.entity.Product"
+description"__annotation*
+
+%10È
+Å
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG G('
+%11"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%4É
+Æ
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaG0 G(7<
+1
+product&com.infosys.api.product.entity.Product"
+image"__annotation*
+
+%11*
+1*²
+1o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaH	 H(þ
+û
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaH	 H(4
+%0.com.infosys.api.product.service.ProductService"__id*L*J6
+4com.infosys.api.product.controller.ProductController"
+productService–“
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaH	 H(/,
+%1&com.infosys.api.product.entity.Product"Ÿcom.infosys.api.product.service.ProductService#updateStock(Lcom/infosys/api/product/entity/Product;Ljava/lang/Integer;)Lcom/infosys/api/product/entity/Product;*6
+4
+%0.com.infosys.api.product.service.ProductService*3
+1
+product&com.infosys.api.product.entity.Product*
+
+idjava.lang.Integer2HupdateStock(Lcom/infosys/api/product/entity/Product;Ljava/lang/Integer;)"¡
+o
+eC:/Users/hp/Desktop/ProductMS/src/main/java/com/infosys/api/product/controller/ProductController.javaH H(0.
+,
+%1&com.infosys.api.product.entity.Product:1
+product&com.infosys.api.product.entity.Product:
+idjava.lang.IntegerB86
+4com.infosys.api.product.controller.ProductController
